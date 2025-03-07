@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/marsanchezs/marsanchezs/main/banner.png)
+
 # 👋 ¡Hola! Soy Mario Sánchez S.  
 
 💻 **Analista de Sistemas y Programador Computacional** con más de 5 años de experiencia en análisis, desarrollo y mantenimiento de aplicaciones móviles nativas Android.  
