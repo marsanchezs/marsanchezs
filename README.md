@@ -2,16 +2,16 @@
 
 # 👋 ¡Hola! Soy Mario Sánchez S.  
 
-💻 **Analista de Sistemas y Programador Computacional** con más de 5 años de experiencia en análisis, desarrollo y mantenimiento de aplicaciones móviles nativas Android.  
+💻📱 **Android Developer** con más de 5 años de experiencia en el análisis, diseño, desarrollo y mantenimiento de aplicaciones móviles nativas para Android. Especializado en crear soluciones eficientes y escalables utilizando las últimas tecnologías, con un enfoque en la experiencia del usuario y el rendimiento de la aplicación. Comprometido con el desarrollo de aplicaciones de alta calidad, siguiendo las mejores prácticas y patrones arquitectónicos como MVVM, MVI y Clean Architecture.
 
-📍 Santiago, Chile  
+📍 **Santiago, Chile** 🇨🇱
 
 ## 🚀 Tecnologías  
 - 📱 **Desarrollo Android Nativo:** Kotlin, Java  
 - 🎨 **Creación de Interfaces:** Jetpack Compose, XML  
 - 🏗️ **Arquitectura:** MVVM, MVI, Clean Architecture  
 - 🔌 **Consumo de APIs:** Retrofit2  
-- 🔄 **Inyección de Dependencias:** Dagger 2, Dagger Hilt  
+- 🍼 **Inyección de Dependencias:** Dagger 2, Dagger Hilt  
 - 🧪 **Testing:** Unit Tests con JUnit, MockK  
 - ⚡ **Herramientas:** Git, CI/CD, Firebase  
 
