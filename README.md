@@ -13,7 +13,11 @@
 - 🔌 **Consumo de APIs:** Retrofit2  
 - 🍼 **Inyección de Dependencias:** Dagger 2, Dagger Hilt  
 - 🧪 **Testing:** Unit Tests con JUnit, MockK  
-- ⚡ **Herramientas:** Git, CI/CD, Firebase  
+- ⚡ **Herramientas:** Git, CI/CD, Firebase
+
+- 📱 <b>Desarrollo Android Nativo:</b>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="25" height="25"/> Kotlin  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="25" height="25"/> Java 
 
 ## 🌍 Conéctate conmigo  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marsanchezs@gmail.com)  
